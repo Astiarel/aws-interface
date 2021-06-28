@@ -4,7 +4,7 @@
 
 nodejs is expected to be installed on your system.
 
-### Installing Composer
+### Installing nodeJs
 
 For instructions on how to install node>Js visit (https://nodejs.org/en/download/).
 
@@ -36,7 +36,7 @@ cd ..
 ```
 ## Running the Application
 
-To launch the API, execute :
+To launch the app, execute :
 
 ```bash
 npm start
