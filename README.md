@@ -28,8 +28,10 @@ rm -f *
 
 for windows
 del *
-
-# Then, go back to the root of the project
+```
+Copy the file in the src directory in your new project's src directory
+Then, go back to the root of the project
+```bash
 cd ..
 ```
 ## Running the Application
